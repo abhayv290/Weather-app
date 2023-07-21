@@ -1,0 +1,35 @@
+.text_color{
+    color: rgb(39, 20, 80);
+}
+.fnt{
+    font-size: 2vw;
+    font-family: fantasy;
+    font-weight: bolder;
+    color: rgb(14, 14, 69);
+}
+
+#img{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: rgb(243, 240, 240);
+    position:absolute;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+}
+.bgi{
+    background-image: url('https://thumbs.gfycat.com/CharmingFairDungenesscrab-size_restricted.gif');
+}
+.bgs{
+    background-image: url('https://giffiles.alphacoders.com/205/20586.gif');
+    color: white;
+}
+
+#overall_aqi{
+    font-size: 2vw;
+    font-family: fantasy;
+    font-weight: bolder;
+    color: rgb(236 251 6);
+}
