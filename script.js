@@ -123,3 +123,8 @@ mum.addEventListener('click', (e) => {
 })
 getaqi('Delhi');
 
+
+setInterval(() => {
+	const dt=new Date;
+	tme.innerHTML=dt;
+}, 1000);
