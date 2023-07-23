@@ -70,7 +70,7 @@ knpr.addEventListener('click', (e) => {
 })
 bgl.addEventListener('click', (e) => {
 	// e.preventDefault()
-	getWeather('Banglore')
+	getWeather('Bangalore')
 })
 mum.addEventListener('click', (e) => {
 	// e.preventDefault()
