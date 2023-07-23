@@ -115,7 +115,7 @@ knpr.addEventListener('click', (e) => {
 })
 bgl.addEventListener('click', (e) => {
 	// e.preventDefault()
-	getaqi('Banglore')
+	getaqi('Bangalore')
 })
 mum.addEventListener('click', (e) => {
 	// e.preventDefault()
